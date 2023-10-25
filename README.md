@@ -1,2 +1,2 @@
 # mysql-db-backup
-MysqlDb-Backup
+bash script file for mysql db backup
